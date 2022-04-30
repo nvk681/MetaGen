@@ -1,2 +1,2 @@
 # MetaGen
-Searching for information is just one search away; retrieving images is still not efficient as text retrieval. Images are an efficient way of communicating but still are not indexed efficiently. Search engines that retrieve images rely on the alter- native text. In its absence, they use the text on the website, making it challenging to prioritize images based on the search query. In this project, we plan on creat- ing metadata for images by using Deep Learning Models trained using the COCO dataset. Millions of people will then understand more easily, search, describe media on a large scale and effectively improve website accessibility
+
